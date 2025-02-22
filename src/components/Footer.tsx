@@ -6,6 +6,11 @@ export const Footer = () => {
   
   return (
     <div className="mt-12">
+      <div className="text-center mb-4">
+        <p className="font-bold text-gray-700">
+          Coding Smarter. AI-Assisted, Human-Perfected.
+        </p>
+      </div>
       <Separator className="mb-6" />
       <div className="flex justify-between items-center text-sm text-gray-600">
         <div>
